@@ -1,0 +1,14 @@
+Ant
+Bee
+Butterfly
+Gnat
+Grasshopper
+Hornet
+Locust
+Louse
+Mosquito
+Spider
+Stinkbug
+Termite
+Wasp
+Worm
